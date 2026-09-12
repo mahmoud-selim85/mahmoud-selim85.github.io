@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research addresses the design and optimization of intelligent wireless networks, especially where communication, sensing, mobility, and security meet.
+
+## Integrated Sensing and Communications
+
+ISAC systems use shared wireless infrastructure to communicate with users while sensing the surrounding environment. I investigate resource allocation, system design, and security-aware sensing/communication trade-offs.
+
+## UAV-assisted wireless networks
+
+I study aerial networks, including trajectory optimization, stochastic geometry, D2D-assisted UAV communication, UAV mobile edge computing, and cooperative UAV systems.
+
+## RIS, FRIS, and intelligent radio environments
+
+Reconfigurable surfaces provide new ways to shape wireless propagation. My work includes RIS-assisted NOMA, physical-layer authentication with simultaneous reflecting and sensing RIS, and optimization of intelligent wireless environments.
+
+## Physical-layer security
+
+This theme covers secure NOMA, secrecy-aware resource allocation, artificial-noise and friendly-jamming strategies, and authentication in future wireless systems.
+
+## Optimization and signal processing
+
+I develop practical methods based on block coordinate descent, successive convex approximation, semidefinite relaxation, convex-concave procedures, and learning-based signal processing.

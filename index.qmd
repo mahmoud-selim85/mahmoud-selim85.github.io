@@ -1,0 +1,56 @@
+---
+title: "Mahmoud Selim, PhD"
+subtitle: "Associate Professor · Wireless Communications · Intelligent Wireless Systems"
+image: DSC_8538.JPG
+image-alt: "Mahmoud Selim"
+about:
+  template: jolla
+  image-shape: round
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=a1OA680AAAAJ&view_op=list_works&sortby=pubdate
+    - icon: link-45deg
+      text: ORCID
+      href: https://orcid.org/0000-0002-5530-6432
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mahmoud-seleem-aaa65322
+    - icon: journal-bookmark-fill
+      text: IEEE
+      href: https://ieeexplore.ieee.org/author/37086639562
+---
+
+I study how wireless networks can become more intelligent, secure, and useful for connected environments. My work brings together **integrated sensing and communications (ISAC)**, UAV-assisted networks, RIS-assisted communications, physical-layer security, IoT, and optimization for B5G/6G systems.
+
+## Research at a glance
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4 .research-card}
+### ISAC
+Jointly designing communication and sensing functions for future wireless systems.
+:::
+::: {.g-col-12 .g-col-md-4 .research-card}
+### UAV networks
+Reliable aerial connectivity, trajectory design, resource allocation, and UAV-MEC.
+:::
+::: {.g-col-12 .g-col-md-4 .research-card}
+### Security & RIS
+Secure NOMA, authentication, RIS/FRIS, and intelligent radio environments.
+:::
+:::
+
+## Selected work
+
+**Dynamic Role Allocation in Cooperative Secure UAV-ISAC Networks**  
+IEEE Open Journal of the Communications Society, 2026
+
+**Stochastic geometry analysis of UAV-assisted networks with probabilistic UAV activation**  
+Scientific Reports, 2025
+
+**Performance Analysis of RIS-assisted Downlink NOMA Wireless Systems Under D2D Interference**  
+Digital Signal Processing, 2023
+
+::: {.callout-note appearance="minimal"}
+Explore the full [research portfolio](research.qmd), browse [selected publications](publications.qmd), or [download the public CV](cv.qmd).
+:::

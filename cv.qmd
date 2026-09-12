@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+---
+
+Download the public CV: [Mahmoud Selim - Public CV](Mahmoud_Selim_Public_CV.pdf)
+
+## Snapshot
+
+**Current role:** Associate Professor, Faculty of Engineering, Alamein International University (AIU), Egypt  
+**Research:** ISAC · UAV communications · RIS · physical-layer security · IoT · optimization  
+**Education:** PhD and MSc, E-JUST; BSc, Tanta University  
+**Publications:** 25 refereed publications listed in the supplied CV (18 journal articles and 7 conference papers)

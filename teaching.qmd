@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+---
+
+I teach undergraduate and postgraduate courses in communications, embedded systems, electronics, mathematics, and signal processing.
+
+## Current and recent courses
+
+| Area | Courses |
+|---|---|
+| Communications | Satellite Communication Systems · Optical Communications · Mobile Communication Systems · Data Communication and Computer Networks |
+| Embedded systems | Introduction to Embedded Systems · Micro-controller and Embedded Systems · Industrial Networks |
+| Foundations | Logic Design · Electronics · Electronic Circuits and Measurements · Electrical Communications |
+| Mathematics | Numerical Analysis · Complex & Special Functions and Numerical Analysis · Mathematics II |
+| Postgraduate | Adaptive Signal Processing · Optical Fiber Networks · Selected Topics in Wireless Communications |
+
+## Supervision
+
+I have supervised 5 MSc students, 1 PhD student, and 5 undergraduate graduation projects affiliated with the Department of Electronics and Electrical Communications Engineering, Faculty of Engineering, Tanta University.

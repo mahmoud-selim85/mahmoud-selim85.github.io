@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+website:
+  title: "Mahmoud Selim, PhD"
+  description: "Academic website of Mahmoud Selim, Associate Professor of wireless communications and intelligent wireless systems."
+  site-url: "https://mahmoud-selim85.github.io"
+  navbar:
+    background: "#10233f"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: service.qmd
+        text: Service
+    right:
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "© 2026 Mahmoud Selim, PhD"
+    right: "Built with Quarto · Hosted on GitHub Pages"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-fold: true
+    include-in-header: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">

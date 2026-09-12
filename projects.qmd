@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+## Featured research
+
+### Cooperative secure UAV-ISAC
+
+Cooperative UAVs dynamically switch between ISAC transmission and friendly-jamming roles. The project combines role allocation, beamforming, and trajectory optimization to improve physical-layer security while meeting sensing requirements.
+
+### RIS-assisted NOMA
+
+Optimization and performance analysis for downlink NOMA systems assisted by reconfigurable intelligent surfaces under D2D interference.
+
+### UAV-assisted IoT and edge computing
+
+Joint trajectory, task-partitioning, and bit-allocation design for aerial networks supporting IoT and mobile edge computing.
+
+### AI for wireless and medical systems
+
+Deep learning applications spanning V2X fog computing, compressed sensing, and wireless capsule endoscopy image analysis.

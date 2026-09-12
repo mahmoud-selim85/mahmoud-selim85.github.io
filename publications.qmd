@@ -1,0 +1,37 @@
+---
+title: "Publications"
+---
+
+The selected publication list below is drawn from the supplied CV. For the complete record and current citation data, see the [public CV](cv.qmd) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=a1OA680AAAAJ&view_op=list_works&sortby=pubdate).
+
+::: {.publications}
+## 2026
+
+1. Mohamed A. Aboulhassan, Ali G. Mohamed, and Mahmoud M. Selim. “Diversity Collapse in Dual-Hop UWOC Systems: The Impact of AUV Angular Misalignment.” *IEEE Wireless Communications Letters*, vol. 15, 2026.
+2. Mahmoud M. Selim, Mohamed Rihan, Armin Dekorsy, and M. A. Aboulhassan. “Dynamic Role Allocation in Cooperative Secure UAV-ISAC Networks.” *IEEE Open Journal of the Communications Society*, vol. 7, 2026.
+
+## 2025
+
+3. Mahmoud M. Selim. “Stochastic Geometry Analysis of UAV-assisted Networks with Probabilistic UAV Activation.” *Scientific Reports*, vol. 15, no. 1, 2025.
+4. Aml Fawzy, Mahmoud M. Selim, Maha Elsabrouty, Sameh Napoleon, and Mustafa M. Abd El Naby. “Performance Analysis of Secure NOMA Wireless System over Rician Fading Channels.” *Discover Applied Sciences*, vol. 7, 2025.
+5. Aml Fawzy, Mahmoud M. Selim, Maha Elsabrouty, Sameh Napoleon, and Mustafa M. Abd El Naby. “Non-Orthogonal Multiple Access Empowered Physical Layer Security Systems: Review, Issues and Challenges.” *Journal of Engineering Research*, vol. 9, 2025.
+6. Gehad I. Mohammed, Mahmoud M. Selim, and Mahmoud A. Attia. “Trajectory Optimization for UAV-assisted Energy Harvesting for Internet-of-Things.” *Journal of Engineering Research*, vol. 9, 2025.
+
+## 2023–2020
+
+7. Mahmoud M. Selim and Stefano Tomasin. “Performance Analysis of RIS-assisted Downlink NOMA Wireless Systems Under D2D Interference.” *Digital Signal Processing*, vol. 144, 2023.
+8. Mahmoud M. Selim and Stefano Tomasin. “Physical Layer Authentication With Simultaneous Reflecting and Sensing RIS.” *IEEE VTC2023-Spring*, 2023.
+9. Doaa S. A. Elsersy, Mahmoud M. Selim, and Amira S. Ashour. “Deep Learning-Based Polyp Detection in Wireless Capsule Endoscopy Images.” *Journal of Engineering Research*, 2021.
+10. Mahmoud M. Selim, Mohamed Rihan, Yatao Yang, and Junxian Ma. “Optimal Task Partitioning, Bit Allocation and Trajectory for D2D-Assisted UAV-MEC Systems.” *Peer-to-Peer Networking and Applications*, vol. 14, 2021.
+11. Hossam M. Kasem, Mahmoud M. Selim, Ehab Mahmoud Mohamed, and Amr H. Hussein. “DRCS-SR: Deep Robust Compressed Sensing for Single Image Super-Resolution.” *IEEE Access*, vol. 8, 2020.
+12. Mohamed Rihan, Mohamed Elwekeil, Yatao Yang, Lei Huang, Chen Xu, and Mahmoud M. Selim. “Deep-VFog: When Artificial Intelligence Meets Fog Computing in V2X.” *IEEE Systems Journal*, 2020.
+
+## 2019–2014
+
+13. Mohamed Rihan, Mahmoud M. Selim, Chen Xu, and Lei Huang. “D2D Communication Underlaying UAV on Multiple Bands in Disaster Area: Stochastic Geometry Analysis.” *IEEE Access*, vol. 7, 2019.
+14. Mahmoud M. Selim, Mohamed Rihan, Yatao Yang, Lei Huang, Zhi Quan, and Junxian Ma. “On the Outage Probability and Power Control of D2D Underlaying NOMA UAV-Assisted Networks.” *IEEE Access*, vol. 7, 2019.
+15. Mahmoud M. Selim, Osamu Muta, Hossam M. H. Shalaby, and Hiroshi Furukawa. “Chunk-based Resource Allocation in Multi-cell OFDMA Systems with Fairness Guarantee.” *IEICE Communications Express*, 2015.
+16. Mahmoud M. Selim, Osamu Muta, Hossam M. H. Shalaby, and Hiroshi Furukawa. “Low Complexity QoS-aware Subcarrier Allocation for MISO-OFDMA Systems.” *IEICE Communications Express*, 2014.
+17. Mahmoud M. Selim, Osamu Muta, Hossam Shalaby, and Hiroshi Furukawa. “Fairness-aware Chunk-Based Resource Allocation in Multi-Cell OFDMA Networks.” *IEEE ICCVE*, 2014.
+18. Mahmoud M. Selim, Mostafa El-Khamy, and Mohamed El-Sharkawy. “Enhanced Frequency Reuse Schemes for Interference Management in LTE Femtocell Networks.” *IEEE ISWCS*, 2012.
+:::

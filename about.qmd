@@ -1,0 +1,29 @@
+---
+title: "About"
+---
+
+## Profile
+
+Mahmoud Selim is an Associate Professor at the Faculty of Engineering, Alamein International University (AIU), Egypt. His research focuses on intelligent wireless systems for smart cities and next-generation networks, with particular interests in integrated sensing and communications, UAV-assisted communications, RIS-assisted communications, IoT and wireless sensor networks, NOMA, B5G/6G enabling technologies, signal processing, and radio resource allocation.
+
+He has held research appointments at the University of Padova, Italy, Shenzhen University, China, and Kyushu University, Japan. He earned his PhD and MSc in Electronics and Communications Engineering from the Egypt-Japan University of Science and Technology (E-JUST), and his BSc from Tanta University.
+
+## Appointments
+
+| Period | Role |
+|---|---|
+| Nov 2024–present | Associate Professor, Alamein International University |
+| Jun 2021–present | Associate Professor, Tanta University (tenured/on leave) |
+| Oct 2022–Oct 2023 | Postdoctoral Research Fellow, University of Padova, Italy |
+| Jul 2018–Jul 2020 | Postdoctoral Research Fellow, Shenzhen University, China |
+| Oct 2015–Jun 2021 | Assistant Professor, Tanta University |
+
+## Education
+
+- **PhD, Electronics and Communications Engineering**, E-JUST, 2015. Thesis: *Radio Resource Management in OFDMA Wireless Systems*.
+- **MSc, Electronics and Communications Engineering**, E-JUST, 2012. Thesis: *Enhanced Techniques for Interference Management in LTE Femtocell Networks*.
+- **BSc, Electronics and Electrical Communications**, Tanta University, 2008. *Summa Cum Laude*.
+
+## Technical skills
+
+MATLAB · Python (Keras, TensorFlow) · C/C++ · CVX · YALMIP · LaTeX · Mathematica · Linux
